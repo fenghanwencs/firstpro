@@ -4,7 +4,11 @@ public class App {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println(1);
+		sys();
+	}
+
+	public static void sys() {
+		System.out.println(1);
 	}
 
 }
